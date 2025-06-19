@@ -1,0 +1,14 @@
+# Ignore Python environment files
+.env
+
+# Ignore configuration files
+config.py
+
+# Ignore Python cache and virtual environment folders
+__pycache__/
+env/
+venv/
+*.pyc
+*.pyo
+
+registrations.csv
